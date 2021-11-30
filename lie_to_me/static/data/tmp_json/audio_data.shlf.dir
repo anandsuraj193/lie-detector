@@ -1,0 +1,4 @@
+'max_pitch_amp', (1024, 179)
+'pitch_contour', (2048, 179)
+'vowel_duration', (1536, 179)
+'mean_energy', (2560, 518)
